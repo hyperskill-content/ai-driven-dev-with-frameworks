@@ -1,0 +1,35 @@
+## Project Structure Rules
+
+### Folder Organization
+- `/frontend` - Next.js application  
+- `/backend` - Express.js API server
+- All new files go in appropriate subfolders
+
+### Technology Stack
+- **Frontend**: Next.js (React framework)
+- **Backend**: Express.js (Node.js framework)
+- **Database**: Supabase (PostgreSQL with built-in auth)
+- **Payments**: Stripe
+- **Styling**: Tailwind CSS
+- **Language**: JavaScript (no TypeScript for simplicity)
+
+### Coding Conventions
+- Use modern ES6+ syntax
+- Include helpful comments explaining complex logic
+- Follow RESTful API conventions
+- Use descriptive variable and function names
+- Handle errors gracefully with try/catch blocks
+
+### File Naming
+- Use kebab-case for folders: `user-profile`
+- Use camelCase for JavaScript files: `userController.js`
+- Use PascalCase for React components: `UserProfile.jsx` 
+
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Explain like you are talking to non-tech people
+Save all generated files in /content folder inside this project
+Make a comments in code
