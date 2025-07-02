@@ -28,11 +28,12 @@ You'll learn not by reading long docs, but by writing prompts — and analyzing 
 
 ## How to Use This Project
 
-1. Start at Step 1 in the learning guide.
-2. Follow the prompts to generate code using an AI assistant (like ChatGPT or Cursor).
-3. Use your favorite IDE (we recommend [Cursor](https://www.cursor.so/)) and copy/paste or adapt the results.
-4. Test each step in your browser, backend, or [Postman](https://www.postman.com/).
-5. Explore glossary terms whenever you’re unsure about a concept.
+1. 
+2. Start at Step 1 in the learning guide.
+3. Follow the prompts to generate code using an AI assistant (like ChatGPT or Cursor).
+4. Use your favorite IDE (we recommend [Cursor](https://www.cursor.so/)) and copy/paste or adapt the results.
+5. Test each step in your browser, backend, or [Postman](https://www.postman.com/) and compare results with code in step's `post/` directoru
+6. Ask AI explain all new concepts and explore glossary terms whenever you’re unsure about a concept. 
 
 ---
 
