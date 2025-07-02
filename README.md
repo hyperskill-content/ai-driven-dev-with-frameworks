@@ -28,8 +28,8 @@ You'll learn not by reading long docs, but by writing prompts — and analyzing 
 
 ## How to Use This Project
 
-1. 
-2. Start at Step 1 in the learning guide.
+1. Start from preparation directory to learn main idea of this project and advantages of framework and libraries.
+2. Then move forward to Step 1 in the learning guide.
 3. Follow the prompts to generate code using an AI assistant (like ChatGPT or Cursor).
 4. Use your favorite IDE (we recommend [Cursor](https://www.cursor.so/)) and copy/paste or adapt the results.
 5. Test each step in your browser, backend, or [Postman](https://www.postman.com/) and compare results with code in step's `post/` directoru

@@ -81,8 +81,11 @@ Save the resulting files in frontend/ directory.
 ```
 
 Once the code is generated, you’ll see several new files appear.
+
 Take your time to explore them — and if anything feels unclear, don’t hesitate to ask the AI agent to explain specific parts. You can simply say something like “What does this file do?” or “Can you walk me through this function?”
+
 After that, you can compare your result with the example in the repository to better understand how everything works and see if there are any differences.
+
 ---
 
 ## More AI Prompt Examples for Step 2
