@@ -19,24 +19,24 @@ You'll learn not by reading long docs, but by writing prompts — and analyzing 
 
 ---
 
-## 📚 What's Included
+## What's Included
 
 - Prompts and code generation strategies for each phase
 - A real-world app idea you build in steps (HTML → React → Next.js + Express + Supabase + Stripe)
 
 ---
 
-## 🧭 How to Use This Project
+## How to Use This Project
 
-1. **Start at Step 1** in the learning guide.
+1. Start at Step 1 in the learning guide.
 2. Follow the prompts to generate code using an AI assistant (like ChatGPT or Cursor).
 3. Use your favorite IDE (we recommend [Cursor](https://www.cursor.so/)) and copy/paste or adapt the results.
-4. Test each step in your browser, backend, or Postman.
+4. Test each step in your browser, backend, or [Postman](https://www.postman.com/).
 5. Explore glossary terms whenever you’re unsure about a concept.
 
 ---
 
-## 🔧 Tech Stack Used
+## Tech Stack Used
 
 - Frontend: HTML → React → Next.js
 - Backend: Node.js + Express
@@ -47,4 +47,4 @@ You'll learn not by reading long docs, but by writing prompts — and analyzing 
 
 ---
 
-### 💻 Have happy coding! 
+### Have happy coding! 💻 

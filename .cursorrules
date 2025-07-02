@@ -1,7 +1,7 @@
 ## Project Structure Rules
 
 ### Folder Organization
-- `/frontend` - Next.js application  
+- `/frontend` - Next.js application
 - `/backend` - Express.js API server
 - All new files go in appropriate subfolders
 
@@ -23,13 +23,4 @@
 ### File Naming
 - Use kebab-case for folders: `user-profile`
 - Use camelCase for JavaScript files: `userController.js`
-- Use PascalCase for React components: `UserProfile.jsx` 
-
----
-description: 
-globs: 
-alwaysApply: true
----
-Explain like you are talking to non-tech people
-Save all generated files in /content folder inside this project
-Make a comments in code
+- Use PascalCase for React components: `UserProfile.jsx`
