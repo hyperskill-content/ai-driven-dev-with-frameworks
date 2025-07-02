@@ -8,17 +8,26 @@ You’ll build a real app: a **Mini Library**, where users can read public artic
 
 ---
 
-# 🧭 Step 1 — Static Frontend with HTML, CSS, and JS
+# Step 1 — Static Frontend with HTML, CSS, and JS
 
-## 🎯 Goal
-
-Create a simple web page that displays a list of article previews using only **HTML, CSS, and JavaScript** — no frameworks yet. Each article should show a title, a short description, and a “Read more” button that shows an alert when clicked.
+In this step we create a simple web page that displays a list of article previews using only **HTML, CSS, and JavaScript** — no frameworks yet. Each article should show a title, a short description, and a “Read more” button that shows an alert when clicked.
 
 This step helps you experience what it’s like to build everything manually, so you can later appreciate the benefits of using UI libraries and frameworks like React.
 
+### To start:
+
+1. Create a folder for your project and open it in any vibe-coding IDE (e.g. Cursor, Junie, Windsurf).
+2. Ask your AI agent to generate the simple web page with this prompt:
+
+```plaintext
+Create a simple HTML page that displays a list of 6 articles using HTML and CSS.
+Each article should have a title, a short description, and a “Read more” button.
+When the button is clicked, show an alert that says: “This article is available for subscribers only.”
+Separate HTML, CSS, and JavaScript into index.html, style.css, and script.js files.
+```
 ---
 
-## 🧪 What You’ll Build
+## What You’ll Build
 
 A static page that looks like this:
 
@@ -41,7 +50,7 @@ When the user clicks “Read More,” show this alert:
 
 ---
 
-## 🛠️ Tools You’ll Use
+## Tools You’ll Use
 
 - `index.html`
 - `style.css`
@@ -51,7 +60,7 @@ You can run the page by simply opening `index.html` in your browser — no setup
 
 ---
 
-## 💡 Why This Matters
+## Why This Matters
 
 This “vanilla” approach gives you full control over your code, but you’ll start to feel its limitations:
 - Repeating the same markup over and over.
@@ -59,17 +68,6 @@ This “vanilla” approach gives you full control over your code, but you’ll 
 - Code becomes harder to update as the page grows.
 
 Soon, you’ll learn how frameworks help you write cleaner, reusable code.
-
----
-
-## 💬 Example Prompt for Your AI Coding Assistant
-
-```plaintext
-Create a simple HTML page that displays a list of 3 articles using HTML and CSS.
-Each article should have a title, a short description, and a “Read more” button.
-When the button is clicked, show an alert that says: “This article is available for subscribers only.”
-Separate HTML, CSS, and JavaScript into index.html, style.css, and script.js files.
-```
 
 ----
 

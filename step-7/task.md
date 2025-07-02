@@ -1,15 +1,13 @@
-# 🚀 Step 7 — Production Mode & Deployment
+# Step 8 — Production Mode & Deployment
 
-## 🎯 Goal
-
-Make your fullstack app ready for real users:
+And final step - let's make your fullstack app ready for real users:
 - Switch Stripe from test mode to **live payments**
 - Deploy your app to the cloud using **Vercel**
 - Confirm that your backend and frontend work together in production
 
 ---
 
-## ✅ What You’ll Deliver
+## What You'll Deliver
 
 - A **live web app** with:
     - User registration & login (via Supabase)
@@ -20,7 +18,12 @@ Make your fullstack app ready for real users:
 
 ---
 
-## 🧩 Step-by-Step Instructions
+## Step-by-Step Instructions
+
+## Prompt Example: Deployment Strategy
+>I have a Next.js frontend and an Express backend.
+Help me deploy the frontend on Vercel and the backend on Railway.
+Explain how to pass environment variables securely in both.
 
 ### 1. Switch Stripe to Live Mode
 
@@ -78,9 +81,3 @@ You have a few options:
 - Frontend deployed to Vercel with environment variables
 - Backend deployed to server or serverless functions
 - Live app working end-to-end
-
-## 🧪 Prompt Example: Deployment Strategy
->I have a Next.js frontend and an Express backend.
-Help me deploy the frontend on Vercel and the backend on Railway.
-Explain how to pass environment variables securely in both.
-
